@@ -1,0 +1,21 @@
+# Build outputs
+*.exe
+*.out
+*.obj
+*.o
+bankEase
+bankEase-superadmin
+
+# Data files
+data/*.txt
+!data/.gitkeep
+
+# Root user credentials
+users.txt
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
