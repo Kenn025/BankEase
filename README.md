@@ -1,8 +1,10 @@
-# BankEase: C++ Banking System with Secure Authentication and Communication
+# BankEase: Secure C++ Banking System with Authentication and Communication
 
 ## Project Overview
 
-BankEase is a comprehensive console-based banking application built with modern C++ principles, designed to deliver enterprise-grade financial operations with a strong emphasis on secure authentication, role-based access control, and integrated communication features. The system provides a complete banking solution with advanced user management capabilities, extensive client services, sophisticated transaction processing, and built-in messaging infrastructure. Supporting multiple currencies and maintaining comprehensive audit trails, BankEase offers a production-ready foundation for secure banking environments.
+BankEase is an open-source C++ banking system and console-based banking application built with modern C++17 principles. It is designed for secure authentication, role-based access control, client account management, internal messaging, and audit logging. If you are searching for a secure C++ banking project, a command-line banking system, or a role-based financial management app, BankEase is built to cover those use cases.
+
+**Primary keywords:** C++ banking system, secure banking application, console banking app, role-based access control, admin dashboard, super admin panel, transaction history, audit logs, internal messaging
 
 ![User Menu](https://raw.githubusercontent.com/Kenn025/BankEase/main/assets/user-menu.png)
 
